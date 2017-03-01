@@ -1,2 +1,2 @@
 # FirstRepository
-it's my first the Repository.it was created to test.
+it's my first Repository.it was created to test.
